@@ -1,7 +1,6 @@
 package stupid.controller;
 
 /**
- * 
  * @author Aaron Montoya
  *
  */
